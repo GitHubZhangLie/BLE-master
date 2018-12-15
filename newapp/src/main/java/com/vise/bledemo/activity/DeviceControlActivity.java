@@ -42,6 +42,7 @@ import java.util.Map;
  */
 public class DeviceControlActivity extends AppCompatActivity {
 
+    //Tow
     private static final String LIST_NAME = "NAME";
     private static final String LIST_UUID = "UUID";
     public static final String WRITE_CHARACTERISTI_UUID_KEY = "write_uuid_key";
